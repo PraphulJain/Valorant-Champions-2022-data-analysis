@@ -12,5 +12,5 @@ I had many ideas so the analysis notebook doesn't contain the basic analysis of 
 
 We can see how the finals compare to what I found with this analysis.
 
-## Thanks for looking into this. You can try to add analysis and raise a pull request if interested!!
+## Thanks for looking into this. You can raise a pull request if interested in adding something!!
 ## Enjoy!!!
