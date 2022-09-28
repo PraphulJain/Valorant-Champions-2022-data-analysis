@@ -1,6 +1,6 @@
 # Valorant Champions 2022 data analysis
 
-I was bored on the weekend then remembered its the finals of [Valorant champions 2022](https://www.vlr.gg/event/1015/valorant-champions-2022/), so I put up a weekend project to analyse and try to come up with a couple of KPI's for analysing the teams specially the finalists.
+Last weekend was the finals of [Valorant champions 2022](https://www.vlr.gg/event/1015/valorant-champions-2022/), so I put up a short weekend project to analyse and try to come up with a couple of KPI's for analysing the teams specially the finalists.
 
 I started by scrapping the data from vlr.gg as currently there is no proper api to give all the details about the tournament matches.
 
